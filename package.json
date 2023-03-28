@@ -61,7 +61,7 @@
     ],
     "testEnvironment": "jsdom",
     "testEnvironmentOptions": {
-      "url": "https://app.youneedabudget.com/aaaaaaaa-bbbb-cccc-dddd-000000000000/budget/201802"
+      "url": "https://app.ynab.com/aaaaaaaa-bbbb-cccc-dddd-000000000000/budget/201802"
     },
     "transform": {
       "^.+\\.jsx?$": "babel-jest",
